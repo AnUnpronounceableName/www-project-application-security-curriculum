@@ -6,7 +6,7 @@
 
 ### Downloads or Social Links
 * [@OWASPEducation](https://twitter.com/OwaspEducation)
-* [Google Docs version of ASC101](https://docs.google.com/presentation/d/17VwENotTvpCVdz84G7lpAJbaxQzDEh-nNA8RBFKMAK8)
+* [Google Docs version of ASC101](https://docs.google.com/presentation/d/1goT663ItzFjb7wAopEeU_ibWMZgpRyC_V4pwXpQICqI)
 
 ### Code Repository
 * [GitHub Repo](https://github.com/OWASP/Application-Security-Curriculum)
