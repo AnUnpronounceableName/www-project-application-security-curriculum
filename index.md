@@ -17,7 +17,7 @@ The project hopes to do that by building or collecting resources for learning an
 
 ### Awareness - OWASP Top 10
 
-Everything begins with awareness and in application security everything begins with the [OWASP Top 10](https://owasp.org/www-project-top-ten/) and rightly so. TO that end we have already created the ASC101 (or Application Security Curriculum Foundational course) and you can grab the Google Presentation materials [here](https://docs.google.com/presentation/d/17VwENotTvpCVdz84G7lpAJbaxQzDEh-nNA8RBFKMAK8) and leverage your OWASP Member benefit with SecureFlag [here](https://www.secureflag.com/owasp) to work through the hands-on secure coding exercises. 
+Everything begins with awareness and in application security everything begins with the [OWASP Top 10](https://owasp.org/www-project-top-ten/) and rightly so. TO that end we have already created the ASC101 (or Application Security Curriculum Foundational course) and you can grab the Google Presentation materials [here](https://docs.google.com/presentation/d/1goT663ItzFjb7wAopEeU_ibWMZgpRyC_V4pwXpQICqI) and leverage your OWASP Member benefit with SecureFlag [here](https://www.secureflag.com/owasp) to work through the hands-on secure coding exercises. 
 
 ### Understanding - OWASP Cornucopia
 
